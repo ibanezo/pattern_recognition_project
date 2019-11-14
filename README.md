@@ -26,7 +26,7 @@ From all of the experiments done on this data set, we can surely say that **Rand
 1. Data set: https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 2. Pandas: https://pandas.pydata.org/pandas-docs/stable/
 3. NumPy and Scipy: https://docs.scipy.org/doc/
-4.Seaborn: https://seaborn.pydata.org/
+4. Seaborn: https://seaborn.pydata.org/
 5. Scikit-learn: https://scikit-learn.org/stable/modules/svm.html
 6. Wikipedia – Confusion Matrix: https://en.wikipedia.org/wiki/Confusion_matrix
 7. Developers.Google: https://developers.google.com/machine-learning/crashcourse/classification/precision-and-recall
