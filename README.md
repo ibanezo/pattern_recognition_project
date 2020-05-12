@@ -19,6 +19,7 @@ Algorithms used in this project:
 
 Also i have used **GridSearchCV()** for tunning the parameters of the **Random Forest Classifier** and **Decision Tree Classifier**.
 
+
 # Conclusion
 From all of the experiments done on this data set, we can surely say that **Random Forest Classification** gives the most accurate results.
 
